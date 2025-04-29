@@ -174,6 +174,7 @@ image.html
 
 </html>
 
+
 ```
 # OUTPUT:
 ![alt text](<gallery 1.jpg>)
