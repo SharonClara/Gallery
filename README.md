@@ -24,7 +24,7 @@ Publish the website in the given URL.
 
 # PROGRAM :
 ```
-image.html
+gallery.html
 <!DOCTYPE html>
 <html lang="en">
 
